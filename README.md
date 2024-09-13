@@ -3,8 +3,6 @@
    * [AWS Academy Cloud Foundation](https://drive.google.com/file/d/1ZVcoYE2_DWU3KVS3vG40yRpMEIVYHpW_/view?usp=sharing)
    * [Google AI Essential](https://drive.google.com/file/d/1q14LWhufzVaJxapPE5r3ids2sdpx4SiL/view?usp=sharing)
 ## 1. Flat service
-### Github
-* [github](https://github.com/Zquan315/Project_Flat_Service_main_)
 ### Description:
    + Serviced apartment management application - **NT106 - Basic network programming**
    + Technology: C# wnfform(.NET framewwork), Firestore, Bunifu UI Framewwork, API-Vietqr.io
@@ -13,7 +11,8 @@
    + [thaont204 - Nguyen Thanh Thao](https://github.com/thaont204)
 ### User manual
 + [User manual](https://drive.google.com/file/d/1BYvlchHGlXhWZfR5UJhD1G9M89C3lXSq/view?usp=drive_link)
-
+### Demo
++ [Demo](https://drive.google.com/file/d/1759MCEgguS01wsSPgbDuYmk_74NliU8v/view?usp=sharing)
 
 ## 2. Active Directory
 ### Description:
