@@ -1,11 +1,13 @@
-# **Persional Projects**
-## Some Certificates
+
+# **Some Certificates**
    * [AWS Academy Cloud Foundation](https://drive.google.com/file/d/1ZVcoYE2_DWU3KVS3vG40yRpMEIVYHpW_/view?usp=sharing)
    * [Google AI Essential](https://drive.google.com/file/d/1q14LWhufzVaJxapPE5r3ids2sdpx4SiL/view?usp=sharing)
+# **My Projects**
 ## 1. Flat service
 ### Description:
    + Serviced apartment management application - **NT106 - Basic network programming**
-   + Technology: C# wnfform(.NET framewwork), Firestore, Bunifu UI Framewwork, API-Vietqr.io
+   + Technology: C# winform(.NET framewwork), Bunifu UI Framewwork, API-Vietqr.io
+   + Database: Firestore, Firebase
 ### Main Features:
 #### General Features
   * Register for a new account
@@ -36,7 +38,7 @@
 
 ## 2. Active Directory
 ### Description:
-   + Active Directory Service - **NT132 - System and Network Administrator**
+   + Active Directory Service - **NT132 - Network and system administration**
    + Target: Back-up, Restore, Upgrade Active Directory
 ### Link to Drive
    + [Click here](https://drive.google.com/drive/folders/1UqZee3nIdjJG6jsEfN6TOTKvWu5VuKGR?usp=sharing)
