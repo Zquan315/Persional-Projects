@@ -6,6 +6,26 @@
 ### Description:
    + Serviced apartment management application - **NT106 - Basic network programming**
    + Technology: C# wnfform(.NET framewwork), Firestore, Bunifu UI Framewwork, API-Vietqr.io
+### Main Features:
+#### General Features
+  * Register for a new account
+  * Log in to the system
+  * Change password
+  * Edit personal information
+#### For Lessor
+  * Display statistical charts for each room
+  * Approve tenants for rooms
+  * Provide rental services
+  * Calculate and send invoices for each room
+  * Track outstanding payments
+  * Delete room information
+  * View details of each room
+  * Chat
+#### For Tenant
+  * Select a room to rent
+  * Register for additional services
+  * View information of the room they are staying in and add personal details to the room
+  * View room rent invoices and make payments
 ### Collaborators:
    + [2uaan1ee - Le Minh Quan](https://github.com/2uaan1ee)
    + [thaont204 - Nguyen Thanh Thao](https://github.com/thaont204)
